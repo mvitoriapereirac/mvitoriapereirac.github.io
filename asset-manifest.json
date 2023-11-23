@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.ce812934.css",
-    "main.js": "/react-gh-pages/static/js/main.b390966f.js",
+    "main.js": "/react-gh-pages/static/js/main.2cf18abd.js",
     "static/media/ME.png": "/react-gh-pages/static/media/ME.3f737c4d66df0be0a16f.png",
     "static/media/Naia-logo.png": "/react-gh-pages/static/media/Naia-logo.8aa6d87f13cad941ebf7.png",
     "static/media/Wave-Pong.png": "/react-gh-pages/static/media/Wave-Pong.d5bba39cd4b0165cbe9c.png",
     "static/media/me-about2.JPG": "/react-gh-pages/static/media/me-about2.cc0db5bc6890902b944b.JPG",
+    "static/media/iconluna.png": "/react-gh-pages/static/media/iconluna.6f46870688cda93a8e99.png",
     "static/media/lucas-r-avatar.jpeg": "/react-gh-pages/static/media/lucas-r-avatar.bc6e140104148923ddd1.jpeg",
     "static/media/MusicMood.jpg": "/react-gh-pages/static/media/MusicMood.aa79bdc2a025fb8d1ab3.jpg",
     "static/media/CV.pdf": "/react-gh-pages/static/media/CV.ccf072142710ad3c01ca.pdf",
@@ -16,10 +17,10 @@
     "static/media/heads-musicapp.png": "/react-gh-pages/static/media/heads-musicapp.300923dcf84a5550fd1e.png",
     "index.html": "/react-gh-pages/index.html",
     "main.ce812934.css.map": "/react-gh-pages/static/css/main.ce812934.css.map",
-    "main.b390966f.js.map": "/react-gh-pages/static/js/main.b390966f.js.map"
+    "main.2cf18abd.js.map": "/react-gh-pages/static/js/main.2cf18abd.js.map"
   },
   "entrypoints": [
     "static/css/main.ce812934.css",
-    "static/js/main.b390966f.js"
+    "static/js/main.2cf18abd.js"
   ]
 }
