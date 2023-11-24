@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ce812934.css",
-    "main.js": "/react-gh-pages/static/js/main.5200e198.js",
+    "main.css": "/react-gh-pages/static/css/main.861ce833.css",
+    "main.js": "/react-gh-pages/static/js/main.ec11609b.js",
     "static/media/ME.png": "/react-gh-pages/static/media/ME.3f737c4d66df0be0a16f.png",
     "static/media/Naia-logo.png": "/react-gh-pages/static/media/Naia-logo.8aa6d87f13cad941ebf7.png",
     "static/media/Wave-Pong.png": "/react-gh-pages/static/media/Wave-Pong.d5bba39cd4b0165cbe9c.png",
@@ -9,18 +9,20 @@
     "static/media/iconluna.png": "/react-gh-pages/static/media/iconluna.6f46870688cda93a8e99.png",
     "static/media/lucas-r-avatar.jpeg": "/react-gh-pages/static/media/lucas-r-avatar.bc6e140104148923ddd1.jpeg",
     "static/media/MusicMood.jpg": "/react-gh-pages/static/media/MusicMood.aa79bdc2a025fb8d1ab3.jpg",
-    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.ccf072142710ad3c01ca.pdf",
+    "static/media/CV Maria Vitória - IT - nov23.pdf": "/react-gh-pages/static/media/CV Maria Vitória - IT - nov23.db5f71ad24096ba39150.pdf",
     "static/media/FaceReality.png": "/react-gh-pages/static/media/FaceReality.de208a17c67cb9117a5f.png",
     "static/media/guilherme-souza.jpeg": "/react-gh-pages/static/media/guilherme-souza.e7c749fd30d300f1d29c.jpeg",
+    "static/media/bianca.jpeg": "/react-gh-pages/static/media/bianca.d8aa3e043d8c6e8d1547.jpeg",
+    "static/media/barreto.jpeg": "/react-gh-pages/static/media/barreto.2b011a2c90ad0214f3b7.jpeg",
     "static/media/dust_scratches.png": "/react-gh-pages/static/media/dust_scratches.3a1926a3547db7d195be.png",
     "static/media/FuraBolo.png": "/react-gh-pages/static/media/FuraBolo.e625894df9b13b1750fc.png",
     "static/media/heads-musicapp.png": "/react-gh-pages/static/media/heads-musicapp.300923dcf84a5550fd1e.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.ce812934.css.map": "/react-gh-pages/static/css/main.ce812934.css.map",
-    "main.5200e198.js.map": "/react-gh-pages/static/js/main.5200e198.js.map"
+    "main.861ce833.css.map": "/react-gh-pages/static/css/main.861ce833.css.map",
+    "main.ec11609b.js.map": "/react-gh-pages/static/js/main.ec11609b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce812934.css",
-    "static/js/main.5200e198.js"
+    "static/css/main.861ce833.css",
+    "static/js/main.ec11609b.js"
   ]
 }
